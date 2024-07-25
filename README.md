@@ -2,7 +2,7 @@
 - 👀 I’m interested in experimenting around codes and learning new things
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on more projects
-- 📫 How to reach me 'email: yoyohoneysamal@gmail.com' 'ig: aryxn.x_'
+- 📫 How to reach me 'email: baryansamal@gmail.com' 'ig: aryxn.x_'
 - 😄 Pronouns: he/him
 
 <!---
